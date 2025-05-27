@@ -1,0 +1,22 @@
+{
+  "Ngoko-Indonesia": {
+    "jensen-score": 0.255204,
+    "kl-divergence": 1.48479
+  },
+  "Ngoko Alus-Indonesia": {
+    "jensen-score": 0.235008,
+    "kl-divergence": 1.296122
+  },
+  "Krama-Indonesia": {
+    "jensen-score": 0.283022,
+    "kl-divergence": 1.723078
+  },
+  "Krama Alus-Indonesia": {
+    "jensen-score": 0.247331,
+    "kl-divergence": 1.384917
+  },
+  "Jawa-Indonesia": {
+    "jensen-score": 0.349778,
+    "kl-divergence": 2.260373
+  }
+}
