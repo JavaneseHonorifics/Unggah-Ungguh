@@ -50,8 +50,8 @@ The conversation dataset (160 instances):
 ## Dataset Card Authors
 
 - M. Rifqi Farhansyah ([@rifqifarhansyah](https://github.com/rifqifarhansyah))
-- Iwan Darmawan
-- Adryan Kusumawardhana
+- Iwan Darmawan ([@idar0006](https://github.com/idar0006))
+- Adryan Kusumawardhana ([@adryankus](https://github.com/adryankus))
 - Genta Indra Winata ([@gentaiscool](https://github.com/gentaiscool))
 - Alham Fikri Aji ([@afaji](https://github.com/afaji))
 - Derry Tanti Wijaya ([@derrywijaya](https://github.com/derrywijaya))
